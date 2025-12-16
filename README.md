@@ -1,2 +1,2 @@
-# Borsa-stanbul-Krripto-AI
+# Borsa-Kripto-AI
 Canlı borsa &amp; kripto fiyatlarını gösteren çalışma
